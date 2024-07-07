@@ -1,4 +1,4 @@
-let sidebarWidth = -350;
+let sidebarWidth = -380;
 $("header.home .side-bar").css({left: sidebarWidth})
 
 $("header.home .side-bar .side-bar-links .side-bar-icon")
